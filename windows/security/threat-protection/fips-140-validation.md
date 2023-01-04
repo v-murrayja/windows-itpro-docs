@@ -18,7 +18,7 @@ ms.technology: itpro-security
 
 ## FIPS 140-2 standard overview
 
-The Federal Information Processing Standard (FIPS) Publication 140-2 is a U.S. government standard. FIPS is based on Section 5131 of the Information Technology Management Reform Act of 1996. It defines the minimum security requirements for cryptographic modules in IT products.
+The Federal Information Processing Standard (FIPS) Publication 140-2 is a U.S. government standard. FIPS is based on Section 5131 of the Information Technology Management Reform Act of 1996. It defines the minimum security requirements for cryptographic modules in IT products.   
 
 The [Cryptographic Module Validation Program (CMVP)][HTTP-1]) is a joint effort of the U.S. National Institute of Standards and Technology (NIST) and the Canadian Centre for Cyber Security (CCCS). It validates cryptographic modules against the Security Requirements for Cryptographic Modules (part of FIPS 140-2) and related FIPS cryptography standards. The FIPS 140-2 security requirements cover 11 areas related to the design and implementation of a cryptographic module. The NIST Information Technology Laboratory operates a related program that validates the FIPS approved cryptographic algorithms in the module.
 
